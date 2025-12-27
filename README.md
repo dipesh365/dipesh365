@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**dipesh365/dipesh365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to g# 💫 About Me:
+# 💫 About Me:
 I’m excited to share that I am actively leveling up my skills in the Google Cybersecurity Professional Certificate program! 🚀<br><br>As I dive deeper into this domain, I am moving beyond just theory and gaining hands-on proficiency in the tools and technologies that power a modern Security Operations Center (SOC). My focus has been on:<br><br>✅ Linux & SQL: Navigating file systems and querying databases to analyze logs. ✅ Python: Writing scripts to automate security tasks and improve efficiency. ✅ Threat Detection: Using SIEM tools (like Chronicle/Splunk) and IDS to spot anomalies. ✅ Risk Management: Applying the NIST Cybersecurity Framework to real-world scenarios.<br><br>I am passionate about the defensive side of technology and am preparing to bring this practical knowledge to a full-time role. I am #OpenToWork and ready to join a team where I can contribute to securing critical infrastructure.<br><br>If you are looking for a dedicated and technically skilled Junior Security Analyst or SOC Analyst, let’s connect! 🤝<br><br>#Cybersecurity #GoogleCybersecurity #SOCAnalyst #InfoSec #BlueTeam #NetworkSecurity #Python #Linux  #OpenToOpportunities
 
 
@@ -26,14 +21,4 @@ I’m excited to share that I am actively leveling up my skills in the Google Cy
 ---
 [![](https://visitcount.itsvg.in/api?id=dipesh365&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->et you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
